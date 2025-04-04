@@ -1,0 +1,6 @@
+i want to create a app with the same functionlity and looking of the codes in (C:\Users\User\Desktop\Android app\indtv) folder
+please keep in mind that
+
+1. you need to implement exo player for video player functionality
+2. i want to use appwrite as the backend server Project id 67e3c272000954353865 database id 67e3c96a000c32799ec5 collection id 67e3c97d000511c571aa
+3. all funtionality and looks should be same
